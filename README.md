@@ -1,10 +1,10 @@
 # Cheetah
 
-<center>
+<p align="center">
   <a  href="https://github.com/fridaycandour/Cheetah">
     <img src="logo.gif" alt="Logo" width="190" height="100">
   </a>
-</center>
+</p>
 
 Cheetah is a JSON document Manager, with ACID complaint and backup recovery mechanism.
 
@@ -166,4 +166,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# Cheetah
 # Cheetah
