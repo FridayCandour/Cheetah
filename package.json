@@ -1,5 +1,5 @@
 {
-  "name": "cheetahDB",
+  "name": "cheetahdb",
   "version": "1.0.0",
   "description": "CheetahDB is a JSON document Manager, with ACID complaint and backup recovery mechanism.",
   "main": "src/index.js",
