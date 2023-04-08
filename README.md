@@ -2,7 +2,7 @@
 
 <p align="center">
   <a  href="https://github.com/fridaycandour/CheetahDB">
-    <img src="logo.gif" alt="Logo" width="190" height="100">
+    <img src="logo.gif" alt="CheetahDB" width="190" height="100">
   </a>
 </p>
 
