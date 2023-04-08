@@ -1,7 +1,7 @@
 # CheetahDB
 
 <p align="center">
-  <a  href="https://github.com/fridaycandour/CheetahDB">
+  <a  href="https://github.com/fridaycandour/Cheetah">
     <img src="logo.gif" alt="CheetahDB" width="190" height="100">
   </a>
 </p>
@@ -10,11 +10,11 @@ CheetahDB is a JSON document Manager, with ACID complaint and backup recovery me
 
 Fast & Durable key-JSON store for NodeJS
 
-![Contributors](https://img.shields.io/github/contributors/fridaycandour/CheetahDB?color=dark-green) ![Issues](https://img.shields.io/github/issues/fridaycandour/CheetahDB) ![License](https://img.shields.io/github/license/fridaycandour/CheetahDB)
+![Contributors](https://img.shields.io/github/contributors/fridaycandour/Cheetah?color=dark-green) ![Issues](https://img.shields.io/github/issues/fridaycandour/Cheetah) ![License](https://img.shields.io/github/license/fridaycandour/Cheetah)
 [![npm Version](https://img.shields.io/npm/v/CheetahDB.svg)](https://www.npmjs.com/package/CheetahDB)
 [![License](https://img.shields.io/npm/l/CheetahDB.svg)](https://github.com/fridaycandour/CheetahDB/blob/next/LICENSE)
 [![npm Downloads](https://img.shields.io/npm/dm/CheetahDB.svg)](https://www.npmjs.com/package/CheetahDB)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/CheetahDB/CheetahDB.js/blob/next/contributing.md)![Forks](https://img.shields.io/github/forks/fridaycandour/CheetahDB?style=social) ![Stargazers](https://img.shields.io/github/stars/fridaycandour/CheetahDB?style=social)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/CheetahDB/CheetahDB.js/blob/next/contributing.md)![Forks](https://img.shields.io/github/forks/fridaycandour/Cheetah?style=social) ![Stargazers](https://img.shields.io/github/stars/fridaycandour/Cheetah?style=social)
 
 CheetahDB works as a key-JSON store that provides ordered mapping from keys to string values.
 
