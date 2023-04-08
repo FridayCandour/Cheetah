@@ -25,13 +25,13 @@ Uses synchronous filesystem methods to exclusively perform append writes to disk
 ## Installation
 
 ```
-npm i CheetahDB --save
+npm i cheetahdb --save
 ```
 
 ## Usage
 
 ```ts
-import { CheetahDB } from "CheetahDB";
+import { cheetah } from "CheetahDB";
 
 const example = async () => {
   // setup database
