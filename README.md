@@ -10,7 +10,7 @@ CheetahDB is a JSON document Manager, with ACID complaint and backup recovery me
 
 Fast & Durable key-JSON store for NodeJS
 
-![Contributors](https://img.shields.io/github/contributors/fridaycandour/Cheetah?color=dark-green) ![License](https://img.shields.io/github/license/fridaycandour/Cheetah/LICENSE)
+![Contributors](https://img.shields.io/github/contributors/fridaycandour/Cheetah?color=dark-green)
 [![npm Version](https://img.shields.io/npm/v/cheetahdb.svg)](https://www.npmjs.com/package/cheetahdb)
 ![Forks](https://img.shields.io/github/forks/fridaycandour/Cheetah?style=social) ![Stargazers](https://img.shields.io/github/stars/fridaycandour/Cheetah?style=social)
 
