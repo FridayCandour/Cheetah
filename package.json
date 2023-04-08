@@ -1,0 +1,18 @@
+{
+  "name": "Cheetah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-ext": "^2.0.0",
+    "glob": "^9.3.4",
+    "tar": "^6.1.13"
+  }
+}
