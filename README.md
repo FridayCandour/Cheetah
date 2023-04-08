@@ -1,24 +1,24 @@
-# Cheetah
+# CheetahDB
 
 <p align="center">
-  <a  href="https://github.com/fridaycandour/Cheetah">
+  <a  href="https://github.com/fridaycandour/CheetahDB">
     <img src="logo.gif" alt="Logo" width="190" height="100">
   </a>
 </p>
 
-Cheetah is a JSON document Manager, with ACID complaint and backup recovery mechanism.
+CheetahDB is a JSON document Manager, with ACID complaint and backup recovery mechanism.
 
 Fast & Durable key-JSON store for NodeJS
 
-![Contributors](https://img.shields.io/github/contributors/fridaycandour/Cheetah?color=dark-green) ![Issues](https://img.shields.io/github/issues/fridaycandour/Cheetah) ![License](https://img.shields.io/github/license/fridaycandour/Cheetah)
-[![npm Version](https://img.shields.io/npm/v/Cheetah.svg)](https://www.npmjs.com/package/Cheetah)
-[![License](https://img.shields.io/npm/l/Cheetah.svg)](https://github.com/fridaycandour/Cheetah/blob/next/LICENSE)
-[![npm Downloads](https://img.shields.io/npm/dm/Cheetah.svg)](https://www.npmjs.com/package/Cheetah)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Cheetah/Cheetah.js/blob/next/contributing.md)![Forks](https://img.shields.io/github/forks/fridaycandour/Cheetah?style=social) ![Stargazers](https://img.shields.io/github/stars/fridaycandour/Cheetah?style=social)
+![Contributors](https://img.shields.io/github/contributors/fridaycandour/CheetahDB?color=dark-green) ![Issues](https://img.shields.io/github/issues/fridaycandour/CheetahDB) ![License](https://img.shields.io/github/license/fridaycandour/CheetahDB)
+[![npm Version](https://img.shields.io/npm/v/CheetahDB.svg)](https://www.npmjs.com/package/CheetahDB)
+[![License](https://img.shields.io/npm/l/CheetahDB.svg)](https://github.com/fridaycandour/CheetahDB/blob/next/LICENSE)
+[![npm Downloads](https://img.shields.io/npm/dm/CheetahDB.svg)](https://www.npmjs.com/package/CheetahDB)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/CheetahDB/CheetahDB.js/blob/next/contributing.md)![Forks](https://img.shields.io/github/forks/fridaycandour/CheetahDB?style=social) ![Stargazers](https://img.shields.io/github/stars/fridaycandour/CheetahDB?style=social)
 
-Cheetah works as a key-JSON store that provides ordered mapping from keys to string values.
+CheetahDB works as a key-JSON store that provides ordered mapping from keys to string values.
 
-Uses synchronous filesystem methods to exclusively perform append writes to disk, this puts the performance of Cheetah near the theoretical maximum write performance for ACID compliant javascript databases.
+Uses synchronous filesystem methods to exclusively perform append writes to disk, this puts the performance of CheetahDB near the theoretical maximum write performance for ACID compliant javascript databases.
 
 - ACID Compliant with transaction support.
 - Data is durable in the face of application or power failure.
@@ -27,13 +27,13 @@ Uses synchronous filesystem methods to exclusively perform append writes to disk
 ## Installation
 
 ```
-npm i Cheetah --save
+npm i CheetahDB --save
 ```
 
 ## Usage
 
 ```ts
-import { Cheetah } from "Cheetah";
+import { CheetahDB } from "CheetahDB";
 
 const example = async () => {
   // setup database
@@ -55,14 +55,14 @@ example();
 
 ## API
 
-The `Cheetah` class accepts an object argument with the following properties:
+The `CheetahDB` class accepts an object argument with the following properties:
 
 ### Object Properties
 
-| Property  | Required | Type   | Details                                               |
-| --------- | -------- | ------ | ----------------------------------------------------- |
-| Directory | false    | string | The folder to persist data into default to `Cheetah`. |
-| cacheSize | false    | number | Default is `100`.                                     |
+| Property  | Required | Type   | Details                                                 |
+| --------- | -------- | ------ | ------------------------------------------------------- |
+| Directory | false    | string | The folder to persist data into default to `CheetahDB`. |
+| cacheSize | false    | number | Default is `100`.                                       |
 
 ## Class Methods
 
@@ -167,5 +167,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# Cheetah
+# CheetahDB
+
+# CheetahDB
 # Cheetah

@@ -1,15 +1,16 @@
 {
-  "name": "Cheetah",
+  "name": "CheetahDB",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "CheetahDB is a JSON document Manager, with ACID complaint and backup recovery mechanism.",
+  "main": "src/index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "keywords": [
+    "JSON",
+    "database",
+    "javascript"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "fs-ext": "^2.0.0",
     "glob": "^9.3.4",

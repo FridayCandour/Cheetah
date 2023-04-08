@@ -2,7 +2,7 @@ import { unlinkSync, mkdirSync, existsSync } from "fs";
 import { backupFiles, getFile, createFile, updateFile } from "./fn.js";
 
 export class cheetah {
-  cheetahDirectory = "Cheetah";
+  cheetahDirectory = "CheetahDB";
   cacheSize = 100;
   cache = {};
   constructor(init) {
