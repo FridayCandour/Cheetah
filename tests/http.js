@@ -7,7 +7,7 @@ const cheetahR = new cheetah();
 await cheetahR.create("foo");
 let counter = 0;
 //
-// createServer(handler).listen(httpPort, start_callback);
+createServer(handler).listen(httpPort, start_callback);
 function handler(req, res) {
   setTimeout(() => {
     res.writeHead(200, "OK", { "Content-Type": "text/plain" });
